@@ -12,4 +12,3 @@ def main():
 def is_valid_password(password):
     count_lower = 0
     count_upper = 0
-    
